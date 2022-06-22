@@ -2,15 +2,18 @@
 
 * {
     /* Iteration 4: Use appropriate property and change margin and padding value to 'zero' */
+    
     text-align: center; 
     scroll-behavior: smooth;
 }
+
 .container {
     position: relative;
     width: 100%;
     height: auto;
     font-family: 'Poppins',sans-serif;
 }
+
 .home {
     position: relative;
     width: 100%;
@@ -20,38 +23,54 @@
     background-position: center;
     background-size: cover;
     /* Iteration 5: Use appropriate property to apply an image to the background (background.jpeg)*/
+    
 }
+
 #move {
     position: relative;
     top: 30%;
 }
+
 p {
     /* Iteration 6: Use appropriate property to change font size to '18px' */
+    
     line-height: 30px; 
 }
+
 h2,
 p {
     margin-top: 1.8pc;
 }
+
 .music {
     /* Iteration 7: Use appropriate property to change color of the background to rgb(41, 41, 41) */
+    
 }
+
 a {
     padding: 15px;
     color: #ffffff;
     /* Iteration 8: Use appropriate property to change background color to 'red' */
+    
     margin-top: 20px;
     /* Iteration 9: Use appropriate property to remove text underline for the hyperlink */
+    
 }
+
 img {
     /* Iteration 10: Use a appropriate function to change the width to 80% */
+    
     height: auto;
     /* Iteration 11: Use shortand property to change margin of '20px' along y-axis */
+    
 }
+
 span {
     margin: 2pc 0;
     font-size: 20px;
     font-weight: 500;
 }
+
 /* Iteration 12: Use appropriate @rule to change background color to 'lightgreen' when screen size have a 
    maximum width of '800px' */
+
